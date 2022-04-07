@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <ul>
+      <li>
+        1 
+        <span>
+          ◀︎ now
+        </span>
+      </li>
+      <li>
+        2 
+      </li>
+      <li>
+        3 
+      </li>
+      <li>
+        4 
+      </li>
+      <li>
+        5 
+      </li>
+    </ul>
+    <div>
+      <button
+        disabled=""
+      >
+        prev
+      </button>
+      <button>
+        next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
